@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=EF5A8C&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+João+Lorenzo!;Seja+bem+vindo+ao+meu+portf%C3%B3lio!)](https://git.io/typing-svg)
 
 <!--
 **lorenzoMalutta/lorenzoMalutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
