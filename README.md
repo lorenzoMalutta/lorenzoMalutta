@@ -7,6 +7,15 @@
 
 I am a computer science student interested in web development in general. Currently study at the State University of Northern Paraná - UENP.  I am a PIBIT fellow by the araucaria foundation, with the project of developing a technological showcase for the sale and sponsorship of technologies from universities.
 
+
+Languages I'm interested
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="lorenzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="lorenzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="lorenzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img  aling="center" alt="lorenzo-Laravel" width="24" height="24" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
+</div><br>
 <!--
 **lorenzoMalutta/lorenzoMalutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
