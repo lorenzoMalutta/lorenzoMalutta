@@ -14,7 +14,7 @@ Languages I'm interested
   <img align="center" alt="lorenzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lorenzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lorenzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img  aling="center" alt="lorenzo-Laravel" width="24" height="24" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
+  <img  aling="center" alt="lorenzo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
 </div><br>
 <!--
 **lorenzoMalutta/lorenzoMalutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
