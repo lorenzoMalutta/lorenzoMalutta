@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=EF5A8C&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+João+Lorenzo!;Seja+bem+vindo+ao+meu+portf%C3%B3lio!)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-lorenzo-malutta-haidar-8000291a7/)](https://www.linkedin.com/in/jo%C3%A3o-lorenzo-malutta-haidar-8000291a7/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=malutta.dev@gmail.com)](malutta.dev@gmail.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:malutta.dev@gmail.com)](mailto:malutta.dev@gmail.com/)
 
 <!--
 **lorenzoMalutta/lorenzoMalutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
