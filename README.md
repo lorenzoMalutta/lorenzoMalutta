@@ -7,17 +7,23 @@
 
 I am a computer science student interested in web development in general. Currently study at the State University of Northern Paraná - UENP.  I am a PIBIT fellow by the araucaria foundation, with the project of developing a technological showcase for the sale and sponsorship of technologies from universities.
 
+<h3>I'm interested in: <h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+<br>
 
-Languages I'm interested
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="lorenzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lorenzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lorenzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img  aling="center" alt="lorenzo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
-  <img  aling="center" alt="lorenzo-php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-</div><br>
-
+<h2>:trophy: &nbsp;Achievements and awards</h2>
+  <h4> 🥇 - First place Hackathon Genius.Con(2022) - SEBRAE</h4>
+  <h4> 🥇 - First place Hackathon Front-end(2022) - UENP</h4>
+  
 let's code!
 <!--
 **lorenzoMalutta/lorenzoMalutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
