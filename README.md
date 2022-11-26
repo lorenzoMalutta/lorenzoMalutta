@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-lorenzo-malutta-haidar-8000291a7/)](https://www.linkedin.com/in/jo%C3%A3o-lorenzo-malutta-haidar-8000291a7/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:malutta.dev@gmail.com)](mailto:malutta.dev@gmail.com)
 <a href="https://github.com/lorenzoMalutta/lorenzoMalutta/blob/main/joao-lorenzo-malutta-haidar.pdf">
-  <img src="https://img.shields.io/badge/Meu_Curriculo-20232A?style=for-the-badge&logo=meu_curriculo&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Resume-20232A?style=for-the-badge&logo=meu_curriculo&logoColor=white" /> 
 </a>
 
 I am a computer science student interested in web development in general. Currently study at the State University of Northern Paraná - UENP.  I am a PIBIT fellow by the araucaria foundation, with the project of developing a technological showcase for the sale and sponsorship of technologies from universities.
