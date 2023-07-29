@@ -26,7 +26,12 @@ I am a computer science student interested in web development in general. Curren
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 <br>
-
+<h3>Learning: </h3>
+  <div>
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />    
+  </div>
 <h2>:trophy: &nbsp;Achievements and awards</h2>
   <h4> 🥇 - First place Hackathon Genius.Con(2022) - SEBRAE</h4>
   <h4> 🥇 - First place Hackathon Front-end(2022) - UENP</h4>
