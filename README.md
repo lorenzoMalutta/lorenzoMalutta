@@ -34,6 +34,7 @@ I am a computer science student interested in web development in general. Curren
   </div>
 <h2>:trophy: &nbsp;Achievements and awards</h2>
   <h4> 🥇 - First place Hackathon Genius.Con(2022) - SEBRAE</h4>
+  <h4> 🥇 - third place Hackathon Genius.Con(2023) - SEBRAE</h4>
   <h4> 🥇 - First place Hackathon Front-end(2022) - UENP</h4>
   
 let's code!
