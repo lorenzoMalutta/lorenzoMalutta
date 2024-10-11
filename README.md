@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-lorenzo-malutta-haidar-8000291a7/)](https://www.linkedin.com/in/jo%C3%A3o-lorenzo-malutta-haidar-8000291a7/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:malutta.dev@gmail.com)](mailto:malutta.dev@gmail.com)
-<a href="https://github.com/lorenzoMalutta/lorenzoMalutta/blob/main/joao-lorenzo-malutta-haidar.pdf">
+<a href="https://github.com/lorenzoMalutta/lorenzoMalutta/blob/main/Resume_EN_Lorenzo.pdf">
   <img src="https://img.shields.io/badge/Resume-20232A?style=for-the-badge&logo=meu_curriculo&logoColor=white" /> 
 </a>
 
